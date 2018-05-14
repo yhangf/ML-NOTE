@@ -6,12 +6,5 @@
 
 ##### pdf格式
 
-[线性回归与最小二乘法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/线性回归与最小二乘法.pdf)
+* [线性回归与最小二乘法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/线性回归与最小二乘法.pdf)
 
-
-
-
-
-##### markdown格式
-
-[线性回归与最小二乘法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/md/线性回归与最小二乘法.md)
