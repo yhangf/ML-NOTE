@@ -22,6 +22,12 @@
    <a href="">
         <img src="https://img.shields.io/badge/未完-更新中-orange.svg">
         </a>
+   <a href="https://github.com/Fenghuapiao/ML-NOTE">
+    <img src="https://img.shields.io/github/stars/Fenghuapiao/ML-NOTE.svg?style=social&label=Star">
+        </a>
+    <a href="https://github.com/Fenghuapiao/ML-NOTE">
+    <img src="https://img.shields.io/github/forks/Fenghuapiao/ML-NOTE.svg?style=social&label=Fork">
+        </a>
 
 </p>
 
