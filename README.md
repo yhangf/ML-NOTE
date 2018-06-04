@@ -37,7 +37,8 @@
 
 ##### pdf格式
 
-* [线性回归与最小二乘法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/线性回归与最小二乘法.pdf)
-* [逻辑回归算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/逻辑回归算法.pdf)
-* [感知机算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/感知机算法.pdf)
+- [x] [线性回归与最小二乘法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/线性回归与最小二乘法.pdf)
+
+- [x] [逻辑回归算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/逻辑回归算法.pdf)
+- [x] [感知机算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/感知机算法.pdf)
 
