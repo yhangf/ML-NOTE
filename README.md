@@ -42,4 +42,5 @@
 - [x] [感知机算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/感知机算法.pdf)
 - [x] [高斯判别分析](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/高斯判别分析.pdf)
 - [x] [支持向量机(上篇)](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/支持向量机(上篇).pdf)
+- [x] [EM算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/EM算法.pdf)
 
