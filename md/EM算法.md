@@ -51,7 +51,7 @@ $$
 \sum\limits_{i=1}^m\log \sum\limits_{z^{(i)}}p(x^{(i)},z^{(i)};\theta)&=\sum\limits_{i=1}^m\log \sum\limits_{z^{(i)}} Q_i(z^{(i)})\dfrac{p(x^{(i)},z^{(i)};\theta)}{Q_i(z^{(i)})}\\
 &=\sum\limits_{i=1}^m\log \mathbb{E}(\dfrac{p(x^{(i)},z^{(i)};\theta)}{Q_i(z^{(i)})})\\
 &\ge\sum\limits_{i=1}^m\mathbb{E}[\log\dfrac{p(x^{(i)},z^{(i)};\theta)}{Q_i(z^{(i)})})]\\
-&=\sum\limits_{i=1}^m\sum\limits_{z^{(i)}}Q_i(z^{(i)})\log\dfrac{p(x^{(i)},z^{(i)};\theta)}{Q_i(z^{(i)})})
+&=\sum\limits_{i=1}^m\sum\limits_{z^{(i)}}Q_i(z^{(i)})\log\dfrac{p(x^{(i)},z^{(i)};\theta)}{Q_i(z^{(i)})}
 \end{aligned}
 $$
 其中由概率分布的充要条件$\ \sum\limits_{z^{(i)}}Q_i(z^{(i)})=1、Q_i(z^{(i)})\ge0\ $可看成下述关于$\ z\ $函数分布列的形式
@@ -78,7 +78,7 @@ $$
 \sum\limits_{z^{(i)}}p(x^{(i)},z^{(i)};\theta)=C \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   (**)
 \end{aligned}
 $$
-把$\ (**)\ $式带入$\ (*)\ $化简可知
+把$\ (**)\ ​$式带入$\ (*)\ ​$化简可知
 $$
 \begin{aligned}
 Q_i(z^{(i)})&=\dfrac{p(x^{(i)},z^{(i)};\theta)}{\sum\limits_{z^{(i)}}p(x^{(i)},z^{(i)};\theta)}\\
