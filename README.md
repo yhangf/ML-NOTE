@@ -43,4 +43,5 @@
 - [x] [高斯判别分析](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/高斯判别分析.pdf)
 - [x] [支持向量机(上篇)](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/支持向量机(上篇).pdf)
 - [x] [EM算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/EM算法.pdf)
+- [x] [朴素贝叶斯算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/朴素贝叶斯算法.pdf)
 
