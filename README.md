@@ -13,7 +13,7 @@
 # <p align="center">ML-NOTE</p>
 
 <p align="center">
- <a href="https://github.com/Fenghuapiao/ML-NOTE/blob/master/LICENSE">
+ <a href="https://github.com/yhangf/ML-NOTE/blob/master/LICENSE">
         <img src="https://img.shields.io/cocoapods/l/EFQRCode.svg?style=flat">
         </a>
  <a href="https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0">
@@ -22,11 +22,11 @@
    <a href="">
         <img src="https://img.shields.io/badge/未完-更新中-orange.svg">
         </a>
-   <a href="https://github.com/Fenghuapiao/ML-NOTE">
-    <img src="https://img.shields.io/github/stars/Fenghuapiao/ML-NOTE.svg?style=social&label=Star">
+   <a href="https://github.com/yhangf/ML-NOTE">
+    <img src="https://img.shields.io/github/stars/yhangf/ML-NOTE.svg?style=social&label=Star">
         </a>
-    <a href="https://github.com/Fenghuapiao/ML-NOTE">
-    <img src="https://img.shields.io/github/forks/Fenghuapiao/ML-NOTE.svg?style=social&label=Fork">
+    <a href="https://github.com/yhangf/ML-NOTE">
+    <img src="https://img.shields.io/github/forks/yhangf/ML-NOTE.svg?style=social&label=Fork">
         </a>
 
 </p>
@@ -37,12 +37,12 @@
 
 ##### pdf格式
 
-- [x] [线性回归与最小二乘法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/线性回归与最小二乘法.pdf)
-- [x] [逻辑回归算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/逻辑回归算法.pdf)
-- [x] [感知机算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/感知机算法.pdf)
-- [x] [高斯判别分析](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/高斯判别分析.pdf)
-- [x] [支持向量机(上篇)](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/支持向量机(上篇).pdf)
-- [x] [EM算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/EM算法.pdf)
-- [x] [朴素贝叶斯算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/朴素贝叶斯算法.pdf)
-- [x] [反向传播算法](https://github.com/Fenghuapiao/ML-NOTE/blob/master/pdf/反向传播算法.pdf)
+- [x] [线性回归与最小二乘法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/线性回归与最小二乘法.pdf)
+- [x] [逻辑回归算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/逻辑回归算法.pdf)
+- [x] [感知机算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/感知机算法.pdf)
+- [x] [高斯判别分析](https://github.com/yhangf/ML-NOTE/blob/master/pdf/高斯判别分析.pdf)
+- [x] [支持向量机(上篇)](https://github.com/yhangf/ML-NOTE/blob/master/pdf/支持向量机(上篇).pdf)
+- [x] [EM算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/EM算法.pdf)
+- [x] [朴素贝叶斯算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/朴素贝叶斯算法.pdf)
+- [x] [反向传播算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/反向传播算法.pdf)
 
