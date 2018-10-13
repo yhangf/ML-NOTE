@@ -45,4 +45,4 @@
 - [x] [EM算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/EM算法.pdf)
 - [x] [朴素贝叶斯算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/朴素贝叶斯算法.pdf)
 - [x] [反向传播算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/反向传播算法.pdf)
-
+- [x] [PCA算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/PCA算法.pdf)
