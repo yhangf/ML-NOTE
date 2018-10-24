@@ -46,3 +46,5 @@
 - [x] [朴素贝叶斯算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/朴素贝叶斯算法.pdf)
 - [x] [反向传播算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/反向传播算法.pdf)
 - [x] [PCA算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/PCA算法.pdf)
+- [x] [核函数粗浅的理解](https://github.com/yhangf/ML-NOTE/blob/master/pdf/核函数粗浅的理解.pdf)
+
