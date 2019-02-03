@@ -48,5 +48,5 @@
 - [x] [反向传播算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/反向传播算法.pdf)
 - [x] [PCA算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/PCA算法.pdf)
 - [x] [核函数粗浅的理解](https://github.com/yhangf/ML-NOTE/blob/master/pdf/核函数粗浅的理解.pdf)
-- [x] [L1和L2正则化的概率解释](https://github.com/yhangf/ML-NOTE/blob/master/pdf/核函数粗浅的理解.pdf)
+- [x] [L1和L2正则化的概率解释](https://github.com/yhangf/ML-NOTE/blob/master/pdf/L1和L2正则化的概率解释.pdf)
 
