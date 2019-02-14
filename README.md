@@ -31,7 +31,7 @@
 
 </p>
 
-慢慢整理所学的机器学习算法，并根据自己所理解的样子叙述出来。笔记中难免会出现一些错误，希望读者能够自己辨证着去看待，如果能把你的一些建议反馈给我的话那是再好不过的，所有文章也可以在[知乎专栏](https://zhuanlan.zhihu.com/jiqixuexi)阅读，相关代码实现可以参考我写的另一个微机器学习框架[**mimose**](https://github.com/yhangf/mimose)。
+慢慢整理所学的和机器学习相关的知识，并根据自己所理解的样子叙述出来。笔记中难免会出现一些错误，希望读者能够自己辨证着去看待，如果能把你的一些建议反馈给我的话那是再好不过的，所有文章也可以在[知乎专栏](https://zhuanlan.zhihu.com/jiqixuexi)阅读，相关代码实现可以参考我写的另一个微机器学习框架[**mimose**](https://github.com/yhangf/mimose)。
 
 #### 笔记内容
 
@@ -49,4 +49,5 @@
 - [x] [PCA算法](https://github.com/yhangf/ML-NOTE/blob/master/pdf/PCA算法.pdf)
 - [x] [核函数粗浅的理解](https://github.com/yhangf/ML-NOTE/blob/master/pdf/核函数粗浅的理解.pdf)
 - [x] [L1和L2正则化的概率解释](https://github.com/yhangf/ML-NOTE/blob/master/pdf/L1和L2正则化的概率解释.pdf)
+- [x] [某些特殊概率分布之间的相互变换](https://github.com/yhangf/ML-NOTE/blob/master/pdf/某些特殊概率分布之间的相互变换.pdf)
 
