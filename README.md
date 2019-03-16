@@ -50,4 +50,5 @@
 - [x] 某些特殊概率分布之间的相互变换  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/某些特殊概率分布之间的相互变换.pdf) | [知乎](https://zhuanlan.zhihu.com/p/56703117)]
 - [x] 高维数据可视化之t-SNE算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/高维数据可视化之t-SNE算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/57937096)]
 - [x] Word2Vec算法梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/word2vec算法梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/58290018)]
+- [x] GBDT算法原理梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/GBDT算法原理梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/59434537)]
 
