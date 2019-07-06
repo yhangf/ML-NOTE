@@ -51,7 +51,7 @@ $$
 $$
 \begin{equation}
 \begin{aligned} 
-o_t&=\sigma{(W_o[h_{t-1},x_t]+b_o)}\\
+o_t&=\sigma{(W_o\cdot[h_{t-1},x_t]+b_o)}\\
 h_t&=o_t\odot \tanh{(C_t)}
 \end{aligned}
 \end{equation}
