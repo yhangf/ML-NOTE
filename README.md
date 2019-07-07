@@ -51,5 +51,5 @@
 - [x] 高维数据可视化之t-SNE算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/高维数据可视化之t-SNE算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/57937096)]
 - [x] Word2Vec算法梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/word2vec算法梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/58290018)]
 - [x] GBDT算法原理梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/GBDT算法原理梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/59434537)]
-- [x] LSTM算法简单梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/LSTM和GRU算法简单梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/72500407)]
+- [x] LSTM和GRU算法简单梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/LSTM和GRU算法简单梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/72500407)]
 
