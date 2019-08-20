@@ -53,4 +53,5 @@
 - [x] GBDT算法原理梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/GBDT算法原理梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/59434537)]
 - [x] LSTM和GRU算法简单梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/LSTM和GRU算法简单梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/72500407)]
 - [x] FM算法简单梳理 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/FM算法简单梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/73798236)]
-- [x] 数值微分的简单代码实现 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/数值微分的简单代码实现.pdf) | [知乎](https://zhuanlan.zhihu.com/p/78915545)]
+- [x] 数值微分理论和简单代码实现 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/数值微分理论和简单代码实现.pdf) | [知乎](https://zhuanlan.zhihu.com/p/78915545)]
+
