@@ -21,12 +21,12 @@ $$
 
 <img src="../picture/pca.png" width="500" hegiht="300" align=center />
 
-极大投影方差法的思想是使得在投影后的空间中数据的方差最大，选择数据方差最大的方向进行投影，才能最大化数据的差异性，因此可以保留更多的原始数据信息。假设输入空间 $\cal X \in \R^n \ $ 为$\ n\ $维向量的集合，特征向量 $\ x^{(i)} \in  \cal X\ $，投影向量为$\  u \in \mathbb{R}^d\ $且限制$\ u\ $的模长为$\ 1\ $即$\ u^Tu=1\ $，对原始特征向量$\ x^{(i)}\ $进行去中心化处理，使得去中心化后的特征向量$\ z^{(i)}\ $均值为$\ 0\ $。
+极大投影方差法的思想是使得在投影后的空间中数据的方差最大，选择数据方差最大的方向进行投影，才能最大化数据的差异性，因此可以保留更多的原始数据信息。假设输入空间 $\cal X \in \R^n \ $ 为$\ n\ $维向量的集合，特征向量 $\ x^{(i)} \in  \cal X\ $，投影向量为$\  u \in \mathbb{R}^d\ $且限制$\ u\ $的模长为$\ 1\ $即$\ u^Tu=1\ $，对原始特征向量$\ x^{(i)}\ $进行去中心化处理，使得去中心化后的特征向量$\ z^{(i)}\ $各特征分量的均值为$\ 0\ $。
 
-> 令$\ \overline{x}=(\overline{x_1}, \overline{x_2}, \cdots,\overline{x_d})\ $，$\ \overline{x_i} \ $为第$\ i\ $个特征的均值，故有
+> 令$\ \overline{x}=(\overline{x_1}, \overline{x_2}, \cdots,\overline{x_n})\ $，$\ \overline{x_i} \ $为第$\ i\ $个特征的均值，故有
 > $$
 > \begin{aligned}
-> 0_d^T&=\frac{1}{m}\sum\limits_{i=1}^mz^{(i)}\\
+> 0_n^T&=\frac{1}{m}\sum\limits_{i=1}^mz^{(i)}\\
 > &=\frac{1}{m}\sum\limits_{i=1}^m(x^{(i)}-\overline{x})\\
 > &=\frac{1}{m}\sum\limits_{i=1}^m x^{(i)}-\frac{1}{m}\cdot m\cdot\overline{x}\\
 > &=\overline{x}-\overline{x}
