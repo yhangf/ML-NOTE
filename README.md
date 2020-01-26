@@ -36,23 +36,50 @@
 #### 笔记内容
 
 - [x] 线性回归与最小二乘法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/线性回归与最小二乘法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/36910496)]
+
 - [x] 逻辑回归算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/逻辑回归算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/37020923)]
+
 - [x] 感知机算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/感知机算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/37134548)]
+
 - [x] 高斯判别分析  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/高斯判别分析.pdf) | [知乎](https://zhuanlan.zhihu.com/p/38269530)]
+
 - [x] 支持向量机(上篇)  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/支持向量机(上篇).pdf) | [知乎](https://zhuanlan.zhihu.com/p/39219534)]
+
 - [x] 支持向量机(下篇)  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/支持向量机(下篇).pdf) | [知乎](https://zhuanlan.zhihu.com/p/47806581)]
+
 - [x] EM算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/EM算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/39490840)]
+
 - [x] 朴素贝叶斯算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/朴素贝叶斯算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/40246165)]
+
 - [x] 反向传播算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/反向传播算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/40761721)]
+
 - [x] PCA算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/PCA算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/46671639)]
+
 - [x] 核函数粗浅的理解  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/核函数粗浅的理解.pdf) | [知乎](https://zhuanlan.zhihu.com/p/47541349)]
+
 - [x] L1和L2正则化的概率解释  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/L1和L2正则化的概率解释.pdf) | [知乎](https://zhuanlan.zhihu.com/p/56185913)]
+
 - [x] 某些特殊概率分布之间的相互变换  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/某些特殊概率分布之间的相互变换.pdf) | [知乎](https://zhuanlan.zhihu.com/p/56703117)]
+
 - [x] 高维数据可视化之t-SNE算法  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/高维数据可视化之t-SNE算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/57937096)]
+
 - [x] Word2Vec算法梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/word2vec算法梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/58290018)]
+
 - [x] GBDT算法原理梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/GBDT算法原理梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/59434537)]
+
 - [x] LSTM和GRU算法简单梳理  [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/LSTM和GRU算法简单梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/72500407)]
+
 - [x] FM算法简单梳理 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/FM算法简单梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/73798236)]
+
 - [x] 数值微分理论和简单代码实现 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/数值微分理论和简单代码实现.pdf) | [知乎](https://zhuanlan.zhihu.com/p/78915545)]
+
 - [x] k-means算法 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/k-means算法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/82550068)]
+
+- [x] 多分类问题的交叉熵 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/多分类问题的交叉熵.pdf) | [知乎](https://zhuanlan.zhihu.com/p/100742743)]
+
+- [x] 关联规则算法原理浅析 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/关联规则算法原理浅析.pdf) | [知乎](https://zhuanlan.zhihu.com/p/100742743)]
+
+- [x] l1相对于l2更容易获得稀疏解的个人看法 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/l1相对于l2更容易获得稀疏解的个人看法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/102909714)]
+
+    
 
