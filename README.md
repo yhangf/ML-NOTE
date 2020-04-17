@@ -81,5 +81,7 @@
 
 - [x] l1相对于l2更容易获得稀疏解的个人看法 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/l1相对于l2更容易获得稀疏解的个人看法.pdf) | [知乎](https://zhuanlan.zhihu.com/p/102909714)]
 
+- [x] Isolation Forest算法梳理 [[pdf](https://github.com/yhangf/ML-NOTE/blob/master/pdf/Isolation Forest算法梳理.pdf) | [知乎](https://zhuanlan.zhihu.com/p/131406753)]
+
     
 
